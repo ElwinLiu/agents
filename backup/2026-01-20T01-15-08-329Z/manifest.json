@@ -1,0 +1,98 @@
+{
+  "version": 1,
+  "createdAt": "2026-01-20T01:15:13.947Z",
+  "scope": "global",
+  "operation": "change-to-agents",
+  "entries": [
+    {
+      "originalPath": "/Users/elwin/.agents/AGENTS.md",
+      "kind": "file",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.claude/CLAUDE.md",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.factory/AGENTS.md",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.codex/AGENTS.md",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.config/opencode/AGENTS.md",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.claude/commands",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.factory/commands",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.codex/prompts",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.opencode/commands",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.cursor/commands",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.agents/hooks",
+      "kind": "dir",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.claude/hooks",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.factory/hooks",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.claude/skills",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.factory/skills",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.codex/skills",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.opencode/skills",
+      "kind": "symlink",
+      "action": "create"
+    },
+    {
+      "originalPath": "/Users/elwin/.cursor/skills",
+      "kind": "symlink",
+      "action": "create"
+    }
+  ]
+}
