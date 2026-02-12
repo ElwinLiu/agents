@@ -1,14 +1,89 @@
 {
-  "version": 2,
+  "version": 3,
   "skills": {
-    "skill-creator": {
-      "source": "anthropics/skills",
+    "vercel-react-native-skills": {
+      "source": "vercel-labs/agent-skills",
       "sourceType": "github",
-      "sourceUrl": "https://github.com/anthropics/skills.git",
-      "skillPath": "skills/skill-creator/SKILL.md",
-      "contentHash": "b2e3d83f60425c2d0b9d4162efb8f9aa322b45843497340f2289f42be422801c",
-      "installedAt": "2026-01-23T03:23:12.674Z",
-      "updatedAt": "2026-01-23T03:23:12.674Z"
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/react-native-skills/SKILL.md",
+      "skillFolderHash": "8b4c6a51914e2111ab6f4f00cb81778652aa241d",
+      "installedAt": "2026-01-28T14:57:14.216Z",
+      "updatedAt": "2026-01-28T14:57:14.216Z"
+    },
+    "vercel-react-best-practices": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/react-best-practices/SKILL.md",
+      "skillFolderHash": "079b06a135401704ea94ab74c7c9d86c92ba259f",
+      "installedAt": "2026-01-28T14:57:14.252Z",
+      "updatedAt": "2026-01-28T14:57:14.252Z"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "skillFolderHash": "3116f3e62dbd02b44a598b1aa690d2a8938e8f89",
+      "installedAt": "2026-01-28T14:57:14.290Z",
+      "updatedAt": "2026-01-28T14:57:14.290Z"
+    },
+    "vercel-composition-patterns": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/agent-skills.git",
+      "skillPath": "skills/composition-patterns/SKILL.md",
+      "skillFolderHash": "7a651a19b1658c4cd320a5e984c1be4b99d97c2c",
+      "installedAt": "2026-01-28T14:57:14.324Z",
+      "updatedAt": "2026-01-28T14:57:14.324Z"
+    },
+    "find-skills": {
+      "source": "vercel-labs/skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/vercel-labs/skills.git",
+      "skillPath": "skills/find-skills/SKILL.md",
+      "skillFolderHash": "c2f31172b6f256272305a5e6e7228b258446899f",
+      "installedAt": "2026-01-28T14:57:42.457Z",
+      "updatedAt": "2026-02-09T17:40:02.368Z"
+    },
+    "swiftui-expert-skill": {
+      "source": "avdlee/swiftui-agent-skill",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/avdlee/swiftui-agent-skill.git",
+      "skillPath": "swiftui-expert-skill/SKILL.md",
+      "skillFolderHash": "8b2cfeec89f80befd36d685ec636fdcd633a30c3",
+      "installedAt": "2026-02-04T04:29:28.739Z",
+      "updatedAt": "2026-02-04T04:33:30.109Z"
+    },
+    "brave-search": {
+      "source": "badlogic/pi-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/badlogic/pi-skills.git",
+      "skillPath": "brave-search/SKILL.md",
+      "skillFolderHash": "079a8cb038b9166f6570a1db1f8b576efbb30b24",
+      "installedAt": "2026-02-04T05:31:06.443Z",
+      "updatedAt": "2026-02-04T05:31:06.443Z"
+    },
+    "typescript-expert": {
+      "source": "sickn33/antigravity-awesome-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/sickn33/antigravity-awesome-skills.git",
+      "skillPath": "skills/typescript-expert/SKILL.md",
+      "skillFolderHash": "d86635f315a33ada966d864947c1e8c3f0a7c0a8",
+      "installedAt": "2026-02-09T17:42:01.081Z",
+      "updatedAt": "2026-02-09T17:42:01.081Z"
     }
-  }
+  },
+  "dismissed": {
+    "findSkillsPrompt": true
+  },
+  "lastSelectedAgents": [
+    "amp",
+    "codex",
+    "gemini-cli",
+    "github-copilot",
+    "kimi-cli",
+    "opencode",
+    "droid"
+  ]
 }

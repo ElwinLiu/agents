@@ -2,7 +2,9 @@
 description: Draft a conventional commit message following the official specification
 ---
 
-Draft a commit message following the [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) specification.
+Draft a commit message following the [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) specification. 
+
+Before you draft the message, read the uncommited changes!
 
 ## Format
 
