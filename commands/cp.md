@@ -2,6 +2,8 @@
 description: Commit and push - draft a commit message, stage all changes, commit, and push
 ---
 
+Before you draft the message, read the uncommited changes, and understand the repo architecture, impact!
+
 Draft a commit message following the [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) specification, then run `git add .`, commit the changes with the drafted message, and push to the repository.
 
 ## Format

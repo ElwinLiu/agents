@@ -4,7 +4,7 @@ description: Draft a conventional commit message following the official specific
 
 Draft a commit message following the [Conventional Commits 1.0.0](https://www.conventionalcommits.org/en/v1.0.0/) specification. 
 
-Before you draft the message, read the uncommited changes!
+Before you draft the message, read the uncommited changes, and understand the repo architecture, impact!
 
 ## Format
 

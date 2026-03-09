@@ -72,6 +72,24 @@
       "skillFolderHash": "d86635f315a33ada966d864947c1e8c3f0a7c0a8",
       "installedAt": "2026-02-09T17:42:01.081Z",
       "updatedAt": "2026-02-09T17:42:01.081Z"
+    },
+    "umple-diagram-generator": {
+      "source": "umple/umple-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/umple/umple-skills.git",
+      "skillPath": "umple-diagram-generator/SKILL.md",
+      "skillFolderHash": "ae50e384ae3ba0b9ff18c1b1dbe32eb2dbdcc0d9",
+      "installedAt": "2026-02-22T18:46:03.278Z",
+      "updatedAt": "2026-02-22T18:52:08.997Z"
+    },
+    "icon-set-generator": {
+      "source": "jezweb/claude-skills",
+      "sourceType": "github",
+      "sourceUrl": "https://github.com/jezweb/claude-skills.git",
+      "skillPath": "plugins/design-assets/skills/icon-set-generator/SKILL.md",
+      "skillFolderHash": "9a415197b9008f650baca26dffae29c990a8a2ab",
+      "installedAt": "2026-03-03T19:05:04.890Z",
+      "updatedAt": "2026-03-03T19:05:04.890Z"
     }
   },
   "dismissed": {
@@ -79,11 +97,15 @@
   },
   "lastSelectedAgents": [
     "amp",
+    "cline",
     "codex",
+    "cursor",
     "gemini-cli",
     "github-copilot",
     "kimi-cli",
     "opencode",
-    "droid"
+    "cortex",
+    "droid",
+    "goose"
   ]
 }
